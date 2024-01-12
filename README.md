@@ -1,8 +1,21 @@
 # Flutter-Projects
-## 1. I_am_rich
-- [My first Flutter application](https://github.com/vaibhavgup3003/flutter-i_am_rich)
-## 2. mi_card
-## 3. dice_flutter
-## 4. Xylophone
-## 5. BMI_calculator
+## 1. [I_am_rich](https://github.com/vaibhavgup3003/flutter-i_am_rich)
+### What I learned
+-  to build a scaffold widget and appbar.
+-  to insert assets in the pubspec.yaml file
+## 2. [MI_CARD] (https://github.com/vaibhavgup3003/flutter-micard)
+### What I learned
+- to create a multi-widget page
+- to insert text effects and fonts
+## 3. [Dice_Flutter](https://github.com/vaibhavgup3003/flutter-dice)
+### What I learned
+- implemented the use of stateful widget
+- using buttons and functionality
+## 4. [Xylophone](https://github.com/vaibhavgup3003/flutter-xylophone)
+### What I learned
+- refractoring and making the code readable and precise
+- implemented the use of flutter libraries
+## 5. [BMI_calculator](https://github.com/vaibhavgup3003/flutter-bmicalc)
+### What I learned
+- implemented the use of screen switching in flutter
 ## 6. Clima
