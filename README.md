@@ -3,7 +3,7 @@
 ### What I learned
 -  to build a scaffold widget and appbar.
 -  to insert assets in the pubspec.yaml file
-## 2. [MI_CARD] (https://github.com/vaibhavgup3003/flutter-micard)
+## 2. [MI_CARD](https://github.com/vaibhavgup3003/flutter-micard)
 ### What I learned
 - to create a multi-widget page
 - to insert text effects and fonts
