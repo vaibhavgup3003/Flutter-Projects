@@ -19,3 +19,10 @@
 ### What I learned
 - implemented the use of screen switching in flutter
 ## 6. Clima
+### What I learned
+- How to use Dart to perform asynchronous tasks.
+- Learn about Futures and how to work with them.
+- How to network with the Dart http package.
+- What APIs are and how to use them to get data from the internet.
+- How to handle exceptions in Dart using try/catch/throw.
+- Learn about the lifecycle of Stateful Widgets and how to override them.
