@@ -18,7 +18,7 @@
 ## 5. [BMI_calculator](https://github.com/vaibhavgup3003/flutter-bmicalc)
 ### What I learned
 - implemented the use of screen switching in flutter
-## 6. Clima
+## 6. [Real time Weather App: Clima](https://github.com/vaibhavgup3003/flutter-weatherapp)
 ### What I learned
 - How to use Dart to perform asynchronous tasks.
 - Learn about Futures and how to work with them.
